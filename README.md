@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="bootstrap" width="600" height="300"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
